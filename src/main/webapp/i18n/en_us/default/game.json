@@ -1,0 +1,110 @@
+{
+  "version":"",
+  "Paytable": {
+    "RTPvalue": "{@minRTP}%",
+    "RTPrange": "{@minRTP}% to {@maxRTP}%",
+    "paybackTitle": "Expected Payback",
+    "paybackBody": "For this game, the long-term, theoretically-expected payback is {RTP}.",
+    "subheading": "Ticket Cost: {ticketCost}",
+	  "overallChances": "There is a 1 in {odds} overall chance of winning a prize on each play.",
+	  "prizeLevel": "Prize Level",
+	  "prizeDivision": "Prize Division",
+	  "prizeValue": "Prize Value",
+	  "prizeRemaining": "Approximate Prizes Remaining",
+	  "oddsPerPlay": "Odds Per Play",
+    "description":"Description",
+    "descriptions": [
+      "Matched 10 words",
+      "Matched 9 words",
+      "Matched 8 words",
+      "Matched 7 words",
+      "Matched 6 words",
+      "Matched 5 words",
+      "Matched 4 words",
+      "Matched 3 words"
+    ]
+  },
+
+  "title": "Pink Diamond Crossword",
+
+  "MenuCommand": {
+		"price": "Price",
+		"stake": "Stake",
+		"howToPlay": "Help",
+		"paytable": "Paytable",
+		"close": "Close",
+		"audio": {
+			"sound": "Sound",
+			"on": "On",
+			"off": "Off"
+		}
+  },
+
+  "Game": {
+    "footer_balance": "BALANCE",
+    "footer_ticketCost": "TICKET COST",
+    "ticketSelect_ticketCost": "TICKET COST",
+    "ticketCostPrefix": {
+      "BUY": "",
+      "TRY": "TRY "
+    },
+    "footer_win": {
+      "BUY": "WIN",
+      "TRY": "DEMO WIN"
+    },
+
+    "button_buy": {
+      "BUY": "BUY",
+      "TRY": "TRY"
+    },
+    "button_try": "TRY",
+    "button_continue": "CONTINUE",
+    "button_moveToMoney": "MOVE TO MONEY",
+    "button_autoPlay": "REVEAL ALL",
+    "button_stop": "STOP",
+    "button_playAgain": {
+      "BUY": "PLAY AGAIN",
+      "TRY": "TRY AGAIN"
+    },
+    "button_tryAgain": "TRY AGAIN",
+    "button_ok": "OK",
+    "button_exit": "EXIT",
+    "button_close": "CLOSE",
+    
+    "error_button_exit": "EXIT",
+    "error_title": "ERROR",
+    
+    "message_nonWin": "BETTER LUCK\nNEXT TIME",
+    "message_congratulations": {
+      "BUY": "CONGRATULATIONS!",
+      "TRY": "THANKS FOR PLAYING!"
+    },
+    "message_win": {
+      "BUY": "YOU HAVE WON",
+      "TRY": "YOU COULD HAVE WON"
+    },
+    
+    "howToPlay": "HOW TO PLAY",
+    "howToPlayContent": "Press the Stop button to stop the spinning discs and reveal YOUR LETTERS.\n\nSelect the crossword letters that match YOUR LETTERS to mark them as matched.\n\nAn extra letter will be awarded if the Pink Diamond lands in the correct position.\n\nMatch all letters in 3 to 10 words to win!",
+    
+    "yourLetters": "YOUR LETTERS",
+    "bonusLetters": "BONUS LETTERS",
+    "prizeTable": "PRIZE TABLE",
+    "hints": "HINTS",
+    "autoMark": "AUTO MARK",
+    "autoPlay": "REVEAL ALL",
+
+    "prizeLabel1": "3 WORDS",
+    "prizeLabel2": "4 WORDS",
+    "prizeLabel3": "5 WORDS",
+    "prizeLabel4": "6 WORDS",
+    "prizeLabel5": "7 WORDS",
+    "prizeLabel6": "8 WORDS",
+    "prizeLabel7": "9 WORDS",
+    "prizeLabel8": "10 WORDS"
+  },
+  "Error": {
+    "errorCodePrefix": "Error: ",
+    "genericErrorText": "There has been an internal error. EXIT and relaunch the game."
+  }
+}

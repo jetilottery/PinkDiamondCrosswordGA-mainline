@@ -1,0 +1,9 @@
+{
+  "game": {
+    "name": "PinkDiamondCrosswordGA",
+    "id": "300-2202-0",
+    "framework": "jet",
+    "version": "1.4",
+    "studio": "interactive"
+  }
+}
